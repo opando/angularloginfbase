@@ -3,6 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
 [] se agrega prueba 2
+[x] prueba 1
 [ ] prueba 3
 
 # integrando con firebase
